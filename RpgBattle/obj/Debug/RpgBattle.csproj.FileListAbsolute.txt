@@ -1,0 +1,7 @@
+C:\Users\sedin\RiderProjects\RpgBattle\RpgBattle\bin\Debug\RpgBattle.exe
+C:\Users\sedin\RiderProjects\RpgBattle\RpgBattle\bin\Debug\RpgBattle.pdb
+C:\Users\sedin\RiderProjects\RpgBattle\RpgBattle\obj\Debug\RpgBattle.csproj.AssemblyReference.cache
+C:\Users\sedin\RiderProjects\RpgBattle\RpgBattle\obj\Debug\RpgBattle.csproj.SuggestedBindingRedirects.cache
+C:\Users\sedin\RiderProjects\RpgBattle\RpgBattle\obj\Debug\RpgBattle.csproj.CoreCompileInputs.cache
+C:\Users\sedin\RiderProjects\RpgBattle\RpgBattle\obj\Debug\RpgBattle.exe
+C:\Users\sedin\RiderProjects\RpgBattle\RpgBattle\obj\Debug\RpgBattle.pdb
